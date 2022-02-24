@@ -1,0 +1,15 @@
+.header, .homelinks {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.homelinks {
+    color: red;
+    font-size: large;
+}
+
+.header {
+    color: white;
+    background-color: black;
+    font-weight: bold;
+    font-size: larger;
+}
